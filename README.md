@@ -1,6 +1,6 @@
 ## React Gallery App
 
-It is an image gallery app made with the famour React library. This app is based on the MVC (Model View Controller) architecture, a single page application. 
+It is an image gallery app made with the famous React library. This app is based on the MVC (Model View Controller) architecture, and is a single page application. 
 
 ## About This App 
   * Uses Javascript and JSX to build out the gallery components
